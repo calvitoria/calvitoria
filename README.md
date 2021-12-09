@@ -1,9 +1,11 @@
-## Welcome to my Github profile! 
-
+# Welcome to my Github profile! 
+💡   I'm learning software development since August 2021 <br>
+💻 Currently working on exercising what I've learned so far <br>
+👩‍💻 At the moment I am learning JavaScrip <br>
 
 
 <!-- profile inf -->
-<div align="center">
+<div>
   <a href="https://github.com/calvitoria">
   <img height="160m" src="https://github-readme-stats.vercel.app/api?username=calvitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvitoria&layout=compact&langs_count=7&theme=dracula"/>
