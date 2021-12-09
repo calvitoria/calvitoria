@@ -5,10 +5,10 @@
 
 
 <!-- profile inf -->
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/calvitoria">
-  <img height="160m" src="https://github-readme-stats.vercel.app/api?username=calvitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvitoria&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calvitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvitoria&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <!-- about my journey as a web developer -->
