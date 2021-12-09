@@ -1,16 +1,14 @@
 ## Welcome to my Github profile! 
 
-💡   Learning software development since August 2021 <br>
-💻 Currently working on exercising what I've learned so far <br>
-👩‍💻 At the moment I am learning JavaScrip <br>
+
 
 <!-- profile inf -->
 <div align="center">
   <a href="https://github.com/calvitoria">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=calvitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvitoria&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160m" src="https://github-readme-stats.vercel.app/api?username=calvitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvitoria&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-##
+
   <!-- about my journey as a web developer -->
   ##### I'm proud to say that I've already learned:
  <div style="display: inline_block">
