@@ -46,6 +46,9 @@
   <a href = "mailto:calvi.vitoria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitoria-meinerz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+<div>
+   <img align="center" alt="vitoria-swift" src="https://user-images.githubusercontent.com/95686401/155584202-512f01a2-f153-4b51-a330-5ebb3fe31001.png" />
+ 
+ </div>
 
   
