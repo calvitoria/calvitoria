@@ -48,7 +48,6 @@
 </div>
 <div>
    <img align="center" alt="vitoria-swift" src="https://user-images.githubusercontent.com/95686401/155590661-b315e22a-5dea-4669-88b8-bd002b1edd53.png" />
- 
- </div>
+</div>
 
   
