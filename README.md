@@ -1,4 +1,9 @@
 # Welcome to my Github profile! 
+<div style="display: inline_block">
+    
+  <img align="right" alt="vode like a girl sticker"  width="150px" src="https://media2.giphy.com/media/PKgcOctlmXiOG1uRZe/giphy.gif?cid=790b76116f508678cbe93bfe16e92fdee065aab7e74bced0&rid=giphy.gif&ct=s" /> 
+</div>
+
 💡   I'm learning software development since August 2021 <br>
 💻 Currently working on exercising what I've learned so far <br>
 👩‍💻 At the moment I am learning JavaScrip <br>
