@@ -60,7 +60,7 @@
 </div>
   
 <div>
-   <img align="center" alt="vitoria-swift" src="https://user-images.githubusercontent.com/95686401/155590661-b315e22a-5dea-4669-88b8-bd002b1edd53.png" />
+   <img align="center" alt="vitoria-swift" src="https://user-images.githubusercontent.com/95686401/159946833-8b7f168c-6490-4495-a7e8-221c6ed2a41a.png" />
 </div>
 
   
