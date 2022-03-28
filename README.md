@@ -1,5 +1,5 @@
-<div style="display: inline_block">    
-  <img align="right" alt="vode like a girl sticker"  width="150px" src="https://media3.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif?cid=ecf05e47ce1b6242bd0a9cd7a6c1cb63fc9f45e8ad7854d0&rid=giphy.gif&ct=s" /> 
+<div>    
+  <img alt="welcome to my github profile" src="https://user-images.githubusercontent.com/95686401/160473473-0012ecf7-dc4d-4772-a0c3-958807645612.svg" /> 
 </div>
 
 # Welcome to my Github profile! 
