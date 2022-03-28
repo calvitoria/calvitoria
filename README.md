@@ -1,6 +1,12 @@
-<div>    
+
+<!-- <div>    
   <img alt="welcome to my github profile" src="https://user-images.githubusercontent.com/95686401/160473473-0012ecf7-dc4d-4772-a0c3-958807645612.svg" /> 
+</div> -->
+
+<div>    
+  <img alt="welcome to my github profile" src="https://user-images.githubusercontent.com/95686401/160473987-54fa1e70-383b-4261-ad79-02730278cbdd.svg" /> 
 </div>
+
 
 💡   I'm learning software development since August 2021 <br>
 💻 Currently working on exercising what I've learned so far <br>
