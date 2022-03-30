@@ -8,7 +8,7 @@
 </div>
 -->
 <div>    
-  <img alt="welcome to my github profile" src="https://user-images.githubusercontent.com/95686401/160489042-7bac1849-da63-4799-b751-28d916348636.svg" /> 
+  <img alt="welcome to my github profile" src="https://user-images.githubusercontent.com/95686401/160731164-35765eaf-dc5e-45d5-97e0-d178b3cece2d.svg" /> 
 </div>
 
 
