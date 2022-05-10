@@ -62,3 +62,4 @@
 <div>
    <img align="center" alt="vitoria calvi meinerz. web development student" src="https://user-images.githubusercontent.com/95686401/159946833-8b7f168c-6490-4495-a7e8-221c6ed2a41a.png" />
 </div>   
+<img src="http://github-readme-streak-stats.herokuapp.com?user=calvitoria&theme=onedark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" />
