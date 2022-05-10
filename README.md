@@ -1,14 +1,6 @@
 
-<!-- <div>    
-  <img alt="welcome to my github profile" src="https://user-images.githubusercontent.com/95686401/160473473-0012ecf7-dc4d-4772-a0c3-958807645612.svg" /> 
-</div>
- 
 <div>    
-  <img alt="welcome to my github profile" src="https://user-images.githubusercontent.com/95686401/160473987-54fa1e70-383b-4261-ad79-02730278cbdd.svg" /> 
-</div>
--->
-<div>    
-  <img alt="welcome to my github profile" src="https://user-images.githubusercontent.com/95686401/160731164-35765eaf-dc5e-45d5-97e0-d178b3cece2d.svg" /> 
+  <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a software student, based in Porto Alegre, Brazil." src="https://user-images.githubusercontent.com/95686401/160731164-35765eaf-dc5e-45d5-97e0-d178b3cece2d.svg" /> 
 </div>
 
 
@@ -68,5 +60,5 @@
 </div>
   
 <div>
-   <img align="center" alt="vitoria-swift" src="https://user-images.githubusercontent.com/95686401/159946833-8b7f168c-6490-4495-a7e8-221c6ed2a41a.png" />
+   <img align="center" alt="vitoria calvi meinerz. web development student" src="https://user-images.githubusercontent.com/95686401/159946833-8b7f168c-6490-4495-a7e8-221c6ed2a41a.png" />
 </div>   
