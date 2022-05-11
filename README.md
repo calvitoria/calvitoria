@@ -60,5 +60,5 @@
 </div>
   
 <div>
-   <img align="center" alt="vitoria calvi meinerz. web development student" src="https://user-images.githubusercontent.com/95686401/159946833-8b7f168c-6490-4495-a7e8-221c6ed2a41a.png" />
+   <img align="center" alt="vitoria calvi meinerz. web development student" src="https://user-images.githubusercontent.com/95686401/167903521-a8aa4497-8873-4690-8311-b9b63c72c8e4.png" />
 </div>   
