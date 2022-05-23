@@ -48,6 +48,11 @@
   <img align="center" alt="vitoria-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />  
   
 </div>
+
+<div>
+  <a href="https://github.com/calvitoria/calvitoria-sound" target="_blank">
+    <img width="250px" alt="click here to visit my new project" src="https://user-images.githubusercontent.com/95686401/169899978-fffe94a4-ae82-4a65-b9cb-26d8f9e1664d.png"></a> 
+</div> 
   
   ##### You can find me @
     
