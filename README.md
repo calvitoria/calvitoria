@@ -6,7 +6,7 @@
 
 💡   I'm learning software development since August 2021 <br>
 💻 Currently working on exercising what I've learned so far <br>
-👩‍💻 At the moment I am learning JavaScrip <br>
+  👩‍💻 At the moment I am learning React <br>
 
 
 <!-- profile inf -->
