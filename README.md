@@ -50,7 +50,7 @@
 </div>
 
 <div>
-  <a href="https://drive.google.com/file/d/1Ok_Pj80TydNqsgtM0OCv9yPoHrYwgxch/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1Hx2zrK9IIYtLgphZYfWbIQnRVeNp6lQS/view?usp=sharing" target="_blank">
     <img width="250px" alt="click here to see my cv" src="https://user-images.githubusercontent.com/95686401/171937678-dc7af90d-0e1e-45b7-a4f8-ce363912a18b.png"></a> 
   <a href="https://github.com/calvitoria/calvitoria-sound" target="_blank">
     <img width="250px" alt="click here to visit my new project" src="https://user-images.githubusercontent.com/95686401/169899978-fffe94a4-ae82-4a65-b9cb-26d8f9e1664d.png"></a> 
