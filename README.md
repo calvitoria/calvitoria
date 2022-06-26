@@ -1,6 +1,6 @@
 
 <div>    
-  <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a software student, based in Porto Alegre, Brazil." src="https://user-images.githubusercontent.com/95686401/167902558-665207dc-5203-48d0-aad3-6b1471d26f6f.png" /> 
+  <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a software student." src="https://user-images.githubusercontent.com/95686401/175835895-953832b1-2273-46cf-ae4d-d230df3cd88b.png" /> 
 </div>
 
 
