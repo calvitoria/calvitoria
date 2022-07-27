@@ -1,13 +1,7 @@
 
 <div>    
-  <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a software student." src="https://user-images.githubusercontent.com/95686401/175836284-17ebe6f1-5d63-45ce-89ff-b51a1d7d400d.png" /> 
+  <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a front-end software developer." src="https://user-images.githubusercontent.com/95686401/181389246-2113a6e7-663c-4d5e-ab71-b39e1bc55d6f.svg" /> 
 </div>
-
-
-💡   I'm learning software development since August 2021 <br>
-💻 Currently working on exercising what I've learned so far <br>
-  👩‍💻 At the moment I am learning React <br>
-
 
 <!-- profile inf -->
 <div style="display: inline-block">
@@ -20,41 +14,31 @@
 </a>  
 </div>
 
-  <!-- about my journey as a web developer -->
-  ##### I'm proud to say that I've already learned:
- <div style="display: inline_block">
-    
-  <img align="center" alt="vitoria-bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> 
-  <img align="center" alt="vitoria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="vitoria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="vitoria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-   <img align="center" alt="vitoria-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="vitoria-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-    
-</div>
-  
+  <!-- tech stack -->
+ <div>    
+  <img alt="my tech stack: html, css, javaScript, tailwind.css, jest testing, react.js, react testinf library, redux, bash, linux"        src="https://user-images.githubusercontent.com/95686401/181390973-122d1c51-bac1-4a5c-a424-141dbeb91327.svg" /> 
+ </div>
 
-   ##### My next experimentation will be with:
-<div style="display: inline_block">
-  <img align="center" alt="vitoria" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
-          
-   ##### I am most excited about learning and using:
-<div style="display: inline_block">
-  
-  <img align="center" alt="vitoria-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  <img align="center" alt="vitoria-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="vitoria-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="vitoria-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />  
-  
-</div>
+  <!-- know more -->
+ <div>
+  <img alt="want to know more?" src="https://user-images.githubusercontent.com/95686401/181391557-ce6d26be-67f7-4bd6-8430-7f117dde4507.svg" /> 
+ </div>
 
-<div>
+ <div>
   <a href="https://drive.google.com/file/d/1e-oG0Ugqz8TumUIz34J4ShYtVrWG7fLz/view?usp=sharing" target="_blank">
-    <img width="250px" alt="click here to see my cv" src="https://user-images.githubusercontent.com/95686401/171937678-dc7af90d-0e1e-45b7-a4f8-ce363912a18b.png"></a> 
+    <img width="200px" alt="click here to see my cv" src="https://user-images.githubusercontent.com/95686401/181391664-dc2a6d05-f937-4ef3-9754-21f4a280f8e3.svg"></a> 
+    
   <a href="https://github.com/calvitoria/calvitoria-sound" target="_blank">
-    <img width="250px" alt="click here to visit my new project" src="https://user-images.githubusercontent.com/95686401/169899978-fffe94a4-ae82-4a65-b9cb-26d8f9e1664d.png"></a> 
-</div> 
+    <img width="200px" alt="click here to visit my new project" src="https://user-images.githubusercontent.com/95686401/181391776-5292e6f2-f2e7-4823-813e-437d42b777ce.svg"></a> 
+    
+  <a href="https://github.com/calvitoria/calvitoria-sound" target="_blank">
+   <img width="200px" alt="click here to know how to create your own API" src="https://user-images.githubusercontent.com/95686401/181392065-f06c90fb-2b76-4e01-b1ba-56b7755d65f2.svg"></a> 
+ 
+ </div>
+ 
+ <div>
+  <img width="500px" alt="If you enjoyed this readme, please give it a star, Want to have a chat? You can messege me on LinkedIn!" src="https://user-images.githubusercontent.com/95686401/181392170-bf7847bb-cbab-4671-a962-906750ccdc5e.svg" /> 
+ </div>
 
   
   ##### You can find me @
