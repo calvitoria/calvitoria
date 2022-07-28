@@ -32,7 +32,7 @@
   <a href="https://github.com/calvitoria/calvitoria-sound" target="_blank">
     <img width="200px" alt="click here to visit my new project" src="https://user-images.githubusercontent.com/95686401/181391776-5292e6f2-f2e7-4823-813e-437d42b777ce.svg"></a> 
     
-  <a href="https://github.com/calvitoria/calvitoria-sound" target="_blank">
+  <a href="https://github.com/calvitoria/how-to-create-API" target="_blank">
    <img width="200px" alt="click here to know how to create your own API" src="https://user-images.githubusercontent.com/95686401/181392065-f06c90fb-2b76-4e01-b1ba-56b7755d65f2.svg"></a>  
  </div>
  
