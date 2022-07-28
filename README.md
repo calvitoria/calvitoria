@@ -1,16 +1,16 @@
 
 <div align="center">  
-  <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a front-end software developer." src="https://user-images.githubusercontent.com/95686401/181393218-09c28e94-6674-44e9-9ced-0ba1afb862b1.svg" /> 
+  <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a front-end software developer." src="https://user-images.githubusercontent.com/95686401/181393903-bc89217c-3aec-4322-ae62-463df25e1655.svg" /> 
 </div>
 
 <!-- profile inf -->
 <div align="center">
 <a href="https://github.com/calvitoria">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=calvitoria&show_icons=true&title_color=af87ff&bg_color=22272e&icon_color=0ba2be&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=false" />
+  <img align="center" width="480px" src="https://github-readme-stats.vercel.app/api?username=calvitoria&show_icons=true&title_color=af87ff&bg_color=22272e&icon_color=F86C91&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=false" />
 </a> 
   
 <a href="https://github.com/calvitoria">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvitoria&bg_color=22272e&icon_color=0ba2be&title_color=af87ff&hide_border=true&layout=compact&theme=material-palenight" alt="calvitoria stats" />
+  <img align="center" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvitoria&bg_color=22272e&icon_color=0ba2be&title_color=af87ff&hide_border=true&layout=compact&theme=material-palenight" alt="calvitoria stats" />
 </a>  
 </div>
 
