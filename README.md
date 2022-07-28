@@ -1,10 +1,10 @@
 
-<div>    
+<div align="center">  
   <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a front-end software developer." src="https://user-images.githubusercontent.com/95686401/181389246-2113a6e7-663c-4d5e-ab71-b39e1bc55d6f.svg" /> 
 </div>
 
 <!-- profile inf -->
-<div style="display: inline-block">
+<div align="center">
 <a href="https://github.com/calvitoria">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=calvitoria&show_icons=true&title_color=af87ff&bg_color=22272e&icon_color=0ba2be&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=false" />
 </a> 
@@ -15,17 +15,17 @@
 </div>
 
   <!-- tech stack -->
- <p align="center">
- <div>    
+
+ <div align="center">
   <img alt="my tech stack: html, css, javaScript, tailwind.css, jest testing, react.js, react testinf library, redux, bash, linux"        src="https://user-images.githubusercontent.com/95686401/181390973-122d1c51-bac1-4a5c-a424-141dbeb91327.svg" /> 
  </div>
 
   <!-- know more -->
- <div>
+ <div align="center">
   <img alt="want to know more?" src="https://user-images.githubusercontent.com/95686401/181391557-ce6d26be-67f7-4bd6-8430-7f117dde4507.svg" /> 
  </div>
 
- <div>
+ <div align="center">
   <a href="https://drive.google.com/file/d/1e-oG0Ugqz8TumUIz34J4ShYtVrWG7fLz/view?usp=sharing" target="_blank">
     <img width="200px" alt="click here to see my cv" src="https://user-images.githubusercontent.com/95686401/181391664-dc2a6d05-f937-4ef3-9754-21f4a280f8e3.svg"></a> 
     
@@ -36,16 +36,14 @@
    <img width="200px" alt="click here to know how to create your own API" src="https://user-images.githubusercontent.com/95686401/181392065-f06c90fb-2b76-4e01-b1ba-56b7755d65f2.svg"></a>  
  </div>
  
- <div>
+<div align="center">
   <img width="500px" alt="If you enjoyed this readme, please give it a star, Want to have a chat? You can messege me on LinkedIn!" src="https://user-images.githubusercontent.com/95686401/181392170-bf7847bb-cbab-4671-a962-906750ccdc5e.svg" /> 
  </div>
- 
- </p>
 
   
   ##### You can find me @
     
-<div> 
+<div align="center">
   <a href="https://www.instagram.com/calvitoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:calvi.vitoria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/calvitoria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
