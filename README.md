@@ -1,6 +1,6 @@
 
 <div align="center">  
-  <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a front-end software developer." src="https://user-images.githubusercontent.com/95686401/181389246-2113a6e7-663c-4d5e-ab71-b39e1bc55d6f.svg" /> 
+  <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a front-end software developer." src="https://user-images.githubusercontent.com/95686401/181393218-09c28e94-6674-44e9-9ced-0ba1afb862b1.svg" /> 
 </div>
 
 <!-- profile inf -->
@@ -37,7 +37,7 @@
  </div>
  
 <div align="center">
-  <img width="500px" alt="If you enjoyed this readme, please give it a star, Want to have a chat? You can messege me on LinkedIn!" src="https://user-images.githubusercontent.com/95686401/181392170-bf7847bb-cbab-4671-a962-906750ccdc5e.svg" /> 
+  <img width="500px" alt="If you enjoyed this readme, please give it a star, Want to have a chat? You can message me on LinkedIn!" src="https://user-images.githubusercontent.com/95686401/181392989-a85570fb-9386-44c8-b131-58bcfaef68f1.svg" /> 
  </div>
 
   
