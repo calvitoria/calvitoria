@@ -1,6 +1,9 @@
 
-<div align="center">  
-  <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a front-end software developer." src="https://user-images.githubusercontent.com/95686401/181394163-adb7f9e3-7798-40d1-ad74-1b19938799ac.svg" /> 
+<div align="center">
+  <a href="https://calvitoria.herokuapp.com/"
+  <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a front-end software developer." 
+  src="https://user-images.githubusercontent.com/95686401/185477854-71b3793d-5369-40e1-8527-206fd692ba7d.png" />
+  </a>
 </div>
 
 <!-- profile inf -->
