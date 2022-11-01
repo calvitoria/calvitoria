@@ -1,8 +1,8 @@
 
 <div align="center">
  <a href="https://calvitoria.herokuapp.com/" >
- <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a front-end software developer." 
-  src="https://user-images.githubusercontent.com/95686401/185478198-d51d5ba4-46a6-4488-869b-1e720a20c7fa.png" /></a>
+ <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a software developer." 
+  src="https://user-images.githubusercontent.com/95686401/199352785-2a68893f-ca5f-4348-9b8d-ec20d1bd5d03.png" /></a>
 </div>
 
 <!-- profile inf -->
