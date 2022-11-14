@@ -18,9 +18,9 @@
 
   <!-- tech stack -->
 
- <div align="center">
+<!--  <div align="center">
   <img alt="my tech stack: html, css, javaScript, tailwind.css, jest testing, react.js, react testinf library, redux, bash, linux"        src="https://user-images.githubusercontent.com/95686401/181390973-122d1c51-bac1-4a5c-a424-141dbeb91327.svg" /> 
- </div>
+ </div> -->
 
   <!-- know more -->
  <div align="center">
@@ -28,10 +28,10 @@
  </div>
 
  <div align="center">
-  <a href="https://drive.google.com/file/d/1e-oG0Ugqz8TumUIz34J4ShYtVrWG7fLz/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1R2CxxgsqFUbF98S98JKWPCNRnzjXCStT?usp=sharing" target="_blank">
     <img width="200px" alt="click here to see my cv" src="https://user-images.githubusercontent.com/95686401/181391664-dc2a6d05-f937-4ef3-9754-21f4a280f8e3.svg"></a> 
     
-  <a href="https://github.com/calvitoria/calvitoria-sound" target="_blank">
+  <a href="https://github.com/calvitoria/intro-to-mongodb" target="_blank">
     <img width="200px" alt="click here to visit my new project" src="https://user-images.githubusercontent.com/95686401/181391776-5292e6f2-f2e7-4823-813e-437d42b777ce.svg"></a> 
     
   <a href="https://github.com/calvitoria/how-to-create-API" target="_blank">
@@ -41,9 +41,6 @@
 <div align="center">
   <img width="500px" alt="If you enjoyed this readme, please give it a star, Want to have a chat? You can message me on LinkedIn!" src="https://user-images.githubusercontent.com/95686401/181392989-a85570fb-9386-44c8-b131-58bcfaef68f1.svg" /> 
  </div>
-
-  
-  ##### You can find me @
     
 <div align="center">
   <a href="https://www.instagram.com/calvitoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -53,6 +50,8 @@
   <a href="https://calvitoria.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-af87ff?style=for-the-badge&logo=Github&logoColor=ffffff&link=calvitoria.github.io"></a> 
 </div>
   
+
 <div>
-   <img align="center" alt="vitoria calvi meinerz. web development student" src="https://user-images.githubusercontent.com/95686401/167903521-a8aa4497-8873-4690-8311-b9b63c72c8e4.png" />
-</div>   
+   <img align="center" alt="capa" src="https://user-images.githubusercontent.com/95686401/201725174-cbebb21b-7951-4231-a898-ce52503c459e.png" />
+</div>
+  
