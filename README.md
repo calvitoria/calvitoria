@@ -1,5 +1,5 @@
 
-<div align="center">
+<!-- <div align="center">
  <a href="https://calvitoria.herokuapp.com/" >
  <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a software developer." 
   src="https://user-images.githubusercontent.com/95686401/199352785-2a68893f-ca5f-4348-9b8d-ec20d1bd5d03.png" /></a>
@@ -47,11 +47,5 @@
   <a href = "mailto:calvi.vitoria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/calvitoria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
-  <a href="https://calvitoria.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-af87ff?style=for-the-badge&logo=Github&logoColor=ffffff&link=calvitoria.github.io"></a> 
-</div>
-  
-
-<div>
-   <img align="center" alt="capa" src="https://user-images.githubusercontent.com/95686401/201725174-cbebb21b-7951-4231-a898-ce52503c459e.png" />
-</div>
+ 
   
