@@ -1,10 +1,4 @@
 
-<!-- <div align="center">
- <a href="https://calvitoria.herokuapp.com/" >
- <img alt="welcome to my github profile. My name is Vitória Calvi Meinerz and I am a software developer." 
-  src="https://user-images.githubusercontent.com/95686401/199352785-2a68893f-ca5f-4348-9b8d-ec20d1bd5d03.png" /></a>
-</div>
-
 <!-- profile inf -->
 <div align="center">
 <a href="https://github.com/calvitoria">
@@ -15,12 +9,6 @@
   <img align="center" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvitoria&bg_color=22272e&icon_color=0ba2be&title_color=af87ff&hide_border=true&layout=compact&theme=material-palenight" alt="calvitoria stats" />
 </a>  
 </div>
-
-  <!-- tech stack -->
-
-<!--  <div align="center">
-  <img alt="my tech stack: html, css, javaScript, tailwind.css, jest testing, react.js, react testinf library, redux, bash, linux"        src="https://user-images.githubusercontent.com/95686401/181390973-122d1c51-bac1-4a5c-a424-141dbeb91327.svg" /> 
- </div> -->
 
   <!-- know more -->
  <div align="center">
