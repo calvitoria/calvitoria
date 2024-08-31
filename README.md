@@ -16,8 +16,9 @@
  </div>
 
  <div align="center">
-  <a href="https://drive.google.com/drive/folders/1R2CxxgsqFUbF98S98JKWPCNRnzjXCStT?usp=sharing" target="_blank">
-    <img width="200px" alt="click here to see my cv" src="https://user-images.githubusercontent.com/95686401/181391664-dc2a6d05-f937-4ef3-9754-21f4a280f8e3.svg"></a> 
+  <a href="https://drive.google.com/file/d/1TBSuBKFueBHWvp__iGXrMoVrRq2fBJz6/view?usp=sharing" target="_blank">
+    <img width="200px" alt="click here to see my cv" src="https://user-images.githubusercontent.com/95686401/181391664-dc2a6d05-f937-4ef3-9754-21f4a280f8e3.svg">
+  </a> 
     
   <a href="https://github.com/calvitoria/intro-to-mongodb" target="_blank">
     <img width="200px" alt="click here to visit my new project" src="https://user-images.githubusercontent.com/95686401/181391776-5292e6f2-f2e7-4823-813e-437d42b777ce.svg"></a> 
@@ -34,6 +35,6 @@
   <a href="https://www.instagram.com/calvitoria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:calvi.vitoria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/calvitoria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </a>
+</div>
  
   
